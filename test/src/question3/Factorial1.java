@@ -1,6 +1,6 @@
-package test;
+package question3;
 
-public class Question3 {
+public class Factorial1 {
 	/* 문제 3. 재귀함수를 이용한 Factorial 구하기 */
 	public static void main(String[] args) {
 		int result = factorial(4);

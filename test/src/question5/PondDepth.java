@@ -1,6 +1,6 @@
-package test;
+package question5;
 
-public class Question5 {
+public class PondDepth {
 	/* 문제 5. 연못 깊이 구하기 */
 	public static void main(String[] args) {
 		int[][] paramArr = {

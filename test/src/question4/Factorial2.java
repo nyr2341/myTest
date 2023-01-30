@@ -1,6 +1,6 @@
-package test;
+package question4;
 
-public class Question4 {
+public class Factorial2 {
 	/* --------------------------------------
 	 *  문제 4. 3번 문제의 Stack Overflow 해결하기 
 	 * 

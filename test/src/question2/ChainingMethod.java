@@ -1,6 +1,6 @@
-package test;
+package question2;
 
-public class Question2 {
+public class ChainingMethod {
 	/* 문제 2. 체이닝 메소드 */
 	public static void main(String[] args) {
 		Calculator calculator = new Calculator();
